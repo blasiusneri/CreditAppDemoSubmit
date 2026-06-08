@@ -1,6 +1,6 @@
 package com.blas.creditappdemo.di
 
-import com.blas.creditappdemo.data.remote.ApiService
+import com.blas.creditappdemo.data.remote.LoanService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -26,7 +26,7 @@ object NetworkModule {
 
     @Provides
     @Singleton
-    fun provideApiService(retrofit: Retrofit): ApiService {
-        return retrofit.create(ApiService::class.java)
+    fun provideLoanService(retrofit: Retrofit): LoanService {
+        return retrofit.create(LoanService::class.java)
     }
 }
