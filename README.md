@@ -114,10 +114,10 @@ The application integrates with two primary backend endpoints to manage the cred
 <img width="316" height="704" alt="LoanStep2" src="https://github.com/user-attachments/assets/7cc495ec-8f98-486b-a938-beef8007703d" />
 
 - Loan From Step 3
-<img width="316" height="704" alt="LoanStep3" src="https://github.com/user-attachments/assets/50c957b0-a800-4607-b1d3-bfd5f3a07835" />
+<img width="308" height="679" alt="LoanStep4" src="https://github.com/user-attachments/assets/86b7a262-937c-412d-9d24-37dd6c1f2e80" />
 
 - Loan From Step 4
-<img width="308" height="679" alt="LoanStep4" src="https://github.com/user-attachments/assets/86b7a262-937c-412d-9d24-37dd6c1f2e80" />
+<img width="316" height="704" alt="LoanStep3" src="https://github.com/user-attachments/assets/50c957b0-a800-4607-b1d3-bfd5f3a07835" />
 
 
 
